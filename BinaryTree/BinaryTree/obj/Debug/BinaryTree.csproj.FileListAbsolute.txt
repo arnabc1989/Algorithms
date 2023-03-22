@@ -1,0 +1,16 @@
+D:\Projects\Assignments\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\Projects\Assignments\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\Projects\Assignments\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Projects\Assignments\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+D:\Projects\Assignments\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Assignments\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Projects\Assignments\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\Projects\Assignments\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\Projects\Algorithm\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\Projects\Algorithm\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\Projects\Algorithm\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Projects\Algorithm\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+D:\Projects\Algorithm\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Algorithm\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithm\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\Projects\Algorithm\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
