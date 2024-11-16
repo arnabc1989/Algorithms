@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hhjtjiqVccT9LpGt7a5T9sadB8555/1rxGzppRelUhE72PFhtIXWbrExwdmpy7CQgNMf9mSmpDniW+DnJUs+RA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Algorithm\\Tree\\BST\\BSTCheck\\BSTCheck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arnab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\arnab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Projects\Algorithm\Tree\BST\BSTCheck\bin\Debug\net6.0\BSTCheck.exe
+D:\Projects\Algorithm\Tree\BST\BSTCheck\bin\Debug\net6.0\BSTCheck.deps.json
+D:\Projects\Algorithm\Tree\BST\BSTCheck\bin\Debug\net6.0\BSTCheck.runtimeconfig.json
+D:\Projects\Algorithm\Tree\BST\BSTCheck\bin\Debug\net6.0\BSTCheck.dll
+D:\Projects\Algorithm\Tree\BST\BSTCheck\bin\Debug\net6.0\ref\BSTCheck.dll
+D:\Projects\Algorithm\Tree\BST\BSTCheck\bin\Debug\net6.0\BSTCheck.pdb
+D:\Projects\Algorithm\Tree\BST\BSTCheck\obj\Debug\net6.0\BSTCheck.csproj.AssemblyReference.cache
+D:\Projects\Algorithm\Tree\BST\BSTCheck\obj\Debug\net6.0\BSTCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Algorithm\Tree\BST\BSTCheck\obj\Debug\net6.0\BSTCheck.AssemblyInfoInputs.cache
+D:\Projects\Algorithm\Tree\BST\BSTCheck\obj\Debug\net6.0\BSTCheck.AssemblyInfo.cs
+D:\Projects\Algorithm\Tree\BST\BSTCheck\obj\Debug\net6.0\BSTCheck.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithm\Tree\BST\BSTCheck\obj\Debug\net6.0\BSTCheck.dll
+D:\Projects\Algorithm\Tree\BST\BSTCheck\obj\Debug\net6.0\ref\BSTCheck.dll
+D:\Projects\Algorithm\Tree\BST\BSTCheck\obj\Debug\net6.0\BSTCheck.pdb
+D:\Projects\Algorithm\Tree\BST\BSTCheck\obj\Debug\net6.0\BSTCheck.genruntimeconfig.cache

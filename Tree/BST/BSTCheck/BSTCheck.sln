@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTCheck", "BSTCheck.csproj", "{6A65AA63-64AA-49D9-8178-0D080DABDC42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A65AA63-64AA-49D9-8178-0D080DABDC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A65AA63-64AA-49D9-8178-0D080DABDC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A65AA63-64AA-49D9-8178-0D080DABDC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A65AA63-64AA-49D9-8178-0D080DABDC42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5294E3E-C471-4A2C-BB72-7324D0974489}
+	EndGlobalSection
+EndGlobal
